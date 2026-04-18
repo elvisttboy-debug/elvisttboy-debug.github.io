@@ -40,5 +40,5 @@ export const rutinaB: Exercise[] = [
   { id: "B3", title: "Pullovers con una mancuerna", muscles: "Espalda (dorsales) y pecho", images: ["/Rutina_B_3.jpg"] },
   { id: "B4", title: "Aperturas con mancuernas", muscles: "Pecho superior", images: ["/Rutina_B_4.jpg"] },
   { id: "B5", title: "Curl de Bíceps alterno + Extensión de Tríceps tras nuca", muscles: "Brazos", images: ["/Rutina_B_5A.jpg", "/Rutina_B_5B.jpg"] },
-  { id: "B6", title: "Elevación de piernas acostado", muscles: "Abdomen inferior", images: ["/Rutina_B_6.jpg"] },
+  { id: "B6", title: "Crunch de McGill", muscles: "Abdomen inferior", images: ["/Rutina_B_6.jpg"] },
 ];
